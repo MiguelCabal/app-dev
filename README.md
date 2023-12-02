@@ -17,7 +17,10 @@ My first repository
 9. Eiichiro Funakoshi as Kenichi Mikuriya, a Supreme Court Justice in possession of a Death Note.
 10. Miyuki Sawashiro as Arma (voice), a white female shinigami, created based on Sidoh's design.
 11. Tori Matsuzaka as Beppo (voice), a golden shinigami.
-12. Kenichi Matsuyama as L, was the greatest detective in the world, who defeated the original Kira.
-13. Tatsuya Fujiwara as Light Yagami, worldly known as "Kira", a serial killer of criminals and former death note holder.
-14. Kensei Mikami as Teru Mikami, the guardian of Hikari Yagami and Misa's prosecutor.
-15. Noémie Nakai as J
+13. Kenichi Matsuyama as L, was the greatest detective in the world, who defeated the original Kira.
+14. Tatsuya Fujiwara as Light Yagami, worldly known as "Kira", a serial killer of criminals and former death note holder.
+15. Kensei Mikami as Teru Mikami, the guardian of Hikari Yagami and Misa's prosecutor.
+16. Noémie Nakai as J
+
+### Production
+*As of February 2016 principal photography was taking place outside Japan. Takeshi Obata, one of the original creators of Death Note, designed the new CGI Shinigami character Arma specifically for the film. The theme song "Dear Diary" and the insert song "Fighter" is performed by Namie Amuro.*
